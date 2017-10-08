@@ -39,8 +39,6 @@ Example:
 
 Example:
 
-    1. This
-    2. is
-    3. only
-    4. a
-    5. test
+    1. This is
+    2. only a
+    3. test
